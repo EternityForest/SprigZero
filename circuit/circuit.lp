@@ -257,7 +257,7 @@
   (lib_variant 8cd7b37f-e5fa-4af5-a8dd-d78830bba3af)
   (lib_device c139e505-592b-46ba-bdf2-acb7383ea0cd)
   (name "C1") (value "{{CAPACITANCE}}")
-  (attribute "CAPACITANCE" (type capacitance) (unit nanofarad) (value ""))
+  (attribute "CAPACITANCE" (type capacitance) (unit microfarad) (value "47"))
   (signal 1c1c7abc-7b40-4f92-b533-f65604644db7 (net 61871687-14ef-4ffe-801d-3ccf7ba0956a))
   (signal 6d776f4d-2a7c-4128-a98a-dbb1dd861411 (net 7b521423-f738-4eb3-b2b8-2293f15fac63))
  )
